@@ -1,6 +1,6 @@
 ## Academic-CV-vs-Industry-Resume
  
-In this repository you can find an example of my academic CV and my industry resume. The goal is to provide a 1:1 of these documents - they both describe me and my past experiences, but you can see how drastically different they are. 
+In this repository you can find an example of my academic CV and my industry resume from 2020, at the time I began applying to industry jobs. The goal is to provide a 1:1 of these documents - they both describe me and my past experiences, but you can see how drastically different they are. 
 
 It was initially difficult to create an industry resume based on my academic experience, but here are some of the guidelines that I used (gathered from a variety of sources):
 
